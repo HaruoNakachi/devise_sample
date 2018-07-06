@@ -52,3 +52,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "rails_12factor", group: :production
+
+# for devise
+gem 'devise'
+gem 'omniauth-twitter'
